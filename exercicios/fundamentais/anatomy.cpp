@@ -1,15 +1,13 @@
- #include <iostream>
+#include <iostream>
 
- int main(){
+int main()
+{
 
-  std::cout 
-    <<  
-    "Hi there!"
-    << 
-    " Bye"
-    << 
-    std::endl;
+  std::cout
+      << "Hi there!"
+      << " Bye"
+      << std::endl;
 
   std::cout << "end!";
   return 0;
- }
+}

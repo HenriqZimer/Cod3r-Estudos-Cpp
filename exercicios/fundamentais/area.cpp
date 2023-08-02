@@ -1,7 +1,8 @@
 #include <iostream>
 using namespace std;
 
-int main(){
+int main()
+{
 
   const double PI = 3.1415;
   double radius;
@@ -12,6 +13,6 @@ int main(){
   double area = PI * radius * radius;
 
   cout << "A area é" << area << endl;
-  
+
   return 0;
 }
