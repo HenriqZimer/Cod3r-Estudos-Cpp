@@ -3,4 +3,4 @@
 
 # Ignore a pasta output
 /output/
-/vscode/
+/.vscode/
