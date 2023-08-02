@@ -1,0 +1,6 @@
+# Ignore arquivos .exe
+*.exe
+
+# Ignore a pasta output
+/output/
+/vscode/
