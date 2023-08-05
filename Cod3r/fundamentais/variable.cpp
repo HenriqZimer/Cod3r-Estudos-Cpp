@@ -4,7 +4,6 @@
 
 int main()
 {
-
   double price = 99.80;
   double tax = 0.08;
 

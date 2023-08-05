@@ -4,7 +4,6 @@ using namespace std;
 
 int main()
 {
-
   string title = "Mr. ";
   string name = ("Jonh");
   string end(10, '!');

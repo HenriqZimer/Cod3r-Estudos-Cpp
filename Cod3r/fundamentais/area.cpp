@@ -3,7 +3,6 @@ using namespace std;
 
 int main()
 {
-
   const double PI = 3.1415;
   double radius;
 

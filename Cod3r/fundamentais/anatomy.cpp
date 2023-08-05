@@ -2,7 +2,6 @@
 
 int main()
 {
-
   std::cout
       << "Hi there!"
       << " Bye"
