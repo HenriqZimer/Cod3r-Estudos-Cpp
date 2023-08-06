@@ -2,7 +2,7 @@
 using namespace std;
 
 int main()
-{
+  {
   int x;
   int y;
   cout << "Vou precisar de dois numeros para fazer calculos ..." << endl;
@@ -20,4 +20,4 @@ int main()
   cout << "O resultado da resto da divisao dos numeros eh: " << x % y << endl;
 
   return 0;
-}
+  }
