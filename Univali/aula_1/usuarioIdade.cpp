@@ -1,7 +1,7 @@
 #include <iostream>
 using namespace std;
 
-int main(){
+int main() {
 
   int idade;
 
@@ -9,13 +9,16 @@ int main(){
   cout << "Informe sua idade: ";
   cin >> idade;
 
-  if (idade < 12){
+  if (idade < 12) {
     cout << "Voce eh uma crianca!" << endl;
-  }else if (idade < 20) {
+  }
+  else if (idade < 20) {
     cout << "Voce eh um adolecente!" << endl;
-  } else if (idade < 50){
+  }
+  else if (idade < 50) {
     cout << "Voce eh um adulto!" << endl;
-  }else {
+  }
+  else {
     cout << "Voce eh um idoso!" << endl;
   }
 

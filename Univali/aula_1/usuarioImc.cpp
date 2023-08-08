@@ -1,7 +1,7 @@
 #include <iostream>
 using namespace std;
 
-int main(){
+int main() {
 
   double peso, altura, resultado;
 
@@ -14,6 +14,6 @@ int main(){
   resultado = peso / (altura * altura);
 
   cout << "Seu IMC eh: " << resultado << endl;
-  
+
   return 0;
 }

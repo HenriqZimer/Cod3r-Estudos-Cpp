@@ -1,7 +1,7 @@
 #include <iostream>
 using namespace std;
 
-int main(){
+int main() {
 
   int resultado, nota1, nota2, nota3, nota4;
 

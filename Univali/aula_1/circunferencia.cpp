@@ -1,7 +1,7 @@
 #include <iostream>
 using namespace std;
 
-int main(){
+int main() {
 
   double pi = 3.14;
   double resultado, raio;
