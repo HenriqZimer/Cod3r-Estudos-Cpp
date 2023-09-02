@@ -2,4 +2,4 @@
 *.exe
 
 # Ignore a pasta output
-/output/
+/output
